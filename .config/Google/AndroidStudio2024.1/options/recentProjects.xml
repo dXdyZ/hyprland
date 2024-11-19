@@ -1,0 +1,58 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/dev/developering/sharaga">
+          <value>
+            <RecentProjectMetaInfo frameTitle="library – MainActivity.java [library.app.main]" projectWorkspaceId="2oeQiKef7HX31nZnIYN1urT8qDA">
+              <option name="activationTimestamp" value="1731521778586" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-241.15989.150.2411.11948838" />
+              <option name="buildTimestamp" value="1718045640000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="7" />
+              </option>
+              <frame x="22" y="62" width="931" height="996" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1731227689631" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/developering/joni">
+          <value>
+            <RecentProjectMetaInfo frameTitle="joni – activity_main.xml [joni.app.main]" projectWorkspaceId="2oo2mx59htauVvbMglw8jRrMZVN">
+              <option name="activationTimestamp" value="1731539407162" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-241.15989.150.2411.11948838" />
+              <option name="buildTimestamp" value="1718045640000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <frame x="22" y="62" width="1876" height="996" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1731521771144" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/nishiy/JavaProjeckt">
+          <value>
+            <RecentProjectMetaInfo frameTitle="JavaProjeckt – UserService.java [GalleryProject.app.main]" opened="true" projectWorkspaceId="2oofbFT6hT7bjlakXkXO7crUGwr">
+              <option name="activationTimestamp" value="1731541854693" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-241.15989.150.2411.11948838" />
+              <option name="buildTimestamp" value="1718045640000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="0" />
+              </option>
+              <frame x="22" y="62" width="1876" height="996" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1731539408877" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/nishiy/JavaProjeckt" />
+    <option name="lastProjectLocation" value="$USER_HOME$/dev/developering" />
+  </component>
+</application>

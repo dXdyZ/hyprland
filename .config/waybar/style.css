@@ -1,0 +1,97 @@
+@import 'colors.css';
+
+* {
+    border: none;
+    font-family: "JetBrainsMonoNL Nerd Font";
+    font-size: 13px;
+    border-radius: 5px;
+    min-height: 20px;
+}
+
+window#waybar {
+    background: transparent;
+}
+
+window#waybar.hidden {
+    opacity: 0.2;
+}
+
+#window {
+    margin-top: 5px;
+    padding-left: 16px;
+    padding-right: 16px;
+    transition: none;
+    color: @text;
+    background: @background;
+}
+
+/* Application-specific styles */
+window#waybar.termite #window,
+window#waybar.chromium #window,
+window#waybar.Navigator #window,
+window#waybar.PCSX2 #window {
+    color: @firefox-text;
+    background: @firefox-bg;
+}
+
+window#waybar.chromium {
+    color: @text;
+    background-color: @chromium-bg;
+}
+
+#workspaces {
+    margin-top: 8px;
+    margin-left: 12px;
+    margin-bottom: 0;
+    background: @background;
+    transition: none;
+}
+
+#workspaces button {
+    transition: none;
+    color: @text-dim;
+    background: transparent;
+    font-size: 16px;
+}
+
+#workspaces button.focused {
+    color: @accent;
+}
+
+#workspaces button:hover {
+    transition: none;
+    box-shadow: inherit;
+    text-shadow: inherit;
+    color: @accent-hover;
+}
+
+/* Common module styling */
+#network,
+#pulseaudio,
+#temperature,
+#cpu,
+#memory,
+#clock,
+#custom-cava-internal,
+#custom-mediaplayer {
+    margin-top: 8px;
+    margin-left: 8px;
+    padding-left: 16px;
+    padding-right: 16px;
+    margin-bottom: 0;
+    transition: none;
+    color: @text;
+    background: @background;
+}
+
+/* Specific margin adjustments */
+#memory,
+#clock,
+#custom-cava-internal {
+    margin-right: 12px;
+}
+
+/* Custom module specific styles */
+#custom-cava-internal {
+    font-family: "bargraph";
+}

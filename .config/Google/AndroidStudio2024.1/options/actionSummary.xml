@@ -1,0 +1,112 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Delete">
+      <i c="3" l="1731294989373" />
+    </e>
+    <e n="$Paste">
+      <i c="4" l="1731522563401" />
+    </e>
+    <e n="$SelectAll">
+      <i c="5" l="1731541284016" />
+    </e>
+    <e n="$Undo">
+      <i c="2" l="1731294923175" />
+    </e>
+    <e n="ActivateProjectToolWindow">
+      <i c="11" l="1731295592029" />
+    </e>
+    <e n="CloseAllEditors">
+      <i c="2" l="1731541437142" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="72" l="1731541386843" />
+    </e>
+    <e n="EditorCopy">
+      <i c="10" l="1731541358410" />
+    </e>
+    <e n="EditorEnter">
+      <i c="8" l="1731522968331" />
+    </e>
+    <e n="EditorPaste">
+      <i c="20" l="1731522987028" />
+    </e>
+    <e n="EditorPreviousWordWithSelection">
+      <i c="9" l="1731521761729" />
+    </e>
+    <e n="Gradle.DownloadSources">
+      <i c="2" l="1731541389980" />
+    </e>
+    <e n="NewProject">
+      <i c="1" l="1731521754140" />
+    </e>
+    <e n="OpenFile">
+      <i c="2" l="1731540951532" />
+    </e>
+    <e n="ProblemsView.CopyProblemDescription">
+      <i c="1" l="1731522923817" />
+    </e>
+    <e n="RedesignedRunConfigurationSelector">
+      <i c="1" l="1731295693483" />
+    </e>
+    <e n="RenameElement">
+      <i c="1" l="1731294709104" />
+    </e>
+    <e n="Rerun">
+      <i c="1" l="1731523296799" />
+    </e>
+    <e n="Run">
+      <i c="4" l="1731541611777" />
+    </e>
+    <e n="ShowIntentionActions">
+      <i c="3" l="1731522969751" />
+    </e>
+    <e n="Stop">
+      <i c="2" l="1731541856960" />
+    </e>
+    <e n="Tree-selectNext">
+      <i c="21" l="1731229333035" />
+    </e>
+    <e n="Tree-selectPrevious">
+      <i c="11" l="1731229333355" />
+    </e>
+    <e n="WelcomeScreen.CreateNewProject">
+      <i c="1" l="1731227584670" />
+    </e>
+    <e n="com.android.tools.idea.gradle.project.build.invoker.GradleBuildInvokerImpl$StopAction">
+      <i c="1" l="1731541509526" />
+    </e>
+    <e n="com.android.tools.idea.npw.template.TemplateManager$fillCategory$addCategoryGroup$galleryAction$1">
+      <i c="6" l="1731522709886" />
+    </e>
+    <e n="com.intellij.codeInsight.daemon.impl.DaemonTooltipWithActionRenderer$addActionsRow$2">
+      <i c="6" l="1731522899976" />
+    </e>
+    <e n="com.intellij.execution.actions.StopProcessAction">
+      <i c="1" l="1731295104819" />
+    </e>
+    <e n="com.intellij.openapi.editor.impl.EditorMarkupModelImpl$TrafficLightAction">
+      <i c="3" l="1731522920541" />
+    </e>
+    <e n="com.intellij.openapi.externalSystem.util.ExternalSystemUtil$6">
+      <i c="1" l="1731295108218" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="1" l="1731227728219" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$5">
+      <i c="5" l="1731541859597" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="11" l="1731540975396" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="8" l="1731541629605" />
+    </e>
+    <e n="com.intellij.ui.tabs.impl.JBTabsImpl$SelectNextAction">
+      <i c="1" l="1731229336084" />
+    </e>
+    <e n="com.intellij.ui.tabs.impl.JBTabsImpl$SelectPreviousAction">
+      <i c="2" l="1731229336504" />
+    </e>
+  </component>
+</application>

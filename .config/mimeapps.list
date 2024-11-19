@@ -1,0 +1,8 @@
+[Added Associations]
+application/pdf=org.gnome.Evince.desktop;com.github.johnfactotum.Foliate.desktop;
+video/mp4=chromium.desktop;
+application/vnd.openxmlformats-officedocument.wordprocessingml.document=onlyoffice-desktopeditors.desktop;intellij-idea-ultimate_intellij-idea-ultimate.desktop;chromium.desktop;
+
+[Default Applications]
+video/mp4=chromium.desktop
+application/pdf=org.gnome.Evince.desktop
